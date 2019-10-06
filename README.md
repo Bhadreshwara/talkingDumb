@@ -1,9 +1,9 @@
-# Sign Language Detector
+# TalkingDumb
 A simple CNN project for detecting american sign language.
-Here, I have implemented CNN (Convolution Neural Network) using Keras.
+Here, I have implemented Convolution Neural Network using Keras.
 
 ### Tools Used
-1. Python 3
+1. Python 3.7
 2. OpenCV 3
 3. Tensorflow
 4. Keras
@@ -18,7 +18,6 @@ Here, I have implemented CNN (Convolution Neural Network) using Keras.
     ```
     python recognise.py
     ```
-    Adjust the hsv values from the track bar to segment your hand color.
 
 3. To create your own data set.
     ```
